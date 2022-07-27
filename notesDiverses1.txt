@@ -1,0 +1,18 @@
+Un clan est uniquement créé en création de partie dans les paramètres.
+Une fois la partie lancée, les joueurs ont un bouton pour chacun des joueurs présent et un pour les éventuels clan.
+Si ils ne sont pas dans un clan, le bouton relatif à ce clan est grisé.
+Si la possibilité de parler avec Jx ou Jy n'à pas été cochée pour le joueur Ja en création de partie, il à les boutons Jx et Jy grisé.
+Au cours de la partie; le droit de parler avec Jx peut lui être donné par le MJ (?) et il peut être ajouté dans un clan par les membres de celui-ci (tous ? ou le MJ ? Même si externe au clan ?)
+Le nombre de boutons varie donc en fonction des paramètres :
+16 de base, plus, un pour chaque clan présent. Si aucun clan n'est présent, seuls les boutons relatifs au joueurs (les 5/16) sont présents.
+Il y à la possibilité d'avoir un bouton avec le nom d'un joueur et un autre avec J1 (au lieu de Arthur) sans savoir que J1 est Arthur.
+De base, les boutons affichent le nom du joueur, sauf si il à été spécifié en création de partie/ajout 
+de la discussion en cours de partie que le joueur doit rester anonyme.
+Le nombre de boutons dans une partie sans clan (donc que des boutons propres à un joueur) peut varier entre 5/16 et 10/32 (?).
+3 niveaux d'accessibilité à un chat privé est possible :
+Niv. 1 : Lecture-écriture
+Niv. 2 : Lecture seule.
+Niv. 3 : Aucun accès (bouton grisé).
+
+- possibilité de cacher les boutons (nombre de joueur inconnu au final)
+- possibilité pour les joueurs de créer leur propre système de règles
